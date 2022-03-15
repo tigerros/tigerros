@@ -1,3 +1,3 @@
 I enjoy working with Microsoft technologies, especially .NET.
 
-![Recursive profile screenshot](Images/ProfileScreenshot.png)
+![Recursive profile GIF](Images/RecursiveProfile.gif)
